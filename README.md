@@ -1,6 +1,6 @@
 <a href="#" align="center"><img width="100%" src="" height="410px"/></a>
 
-<h1 align="center">Hi <img src="[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://media.tenor.com/GlSM4Vk-1WUAAAAC/velet-cj-velet.gif" width="30px">, I'm Juan Gerardo</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://media.tenor.com/GlSM4Vk-1WUAAAAC/velet-cj-velet.gif" width="30px">, I'm Juan Gerardo</h1>
 <h3 align="center">I'm a passionate software engineering student from Colombia.</h3>
 
 
