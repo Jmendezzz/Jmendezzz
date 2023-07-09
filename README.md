@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Spring** and **TypeScript**
+- 🌱 I’m currently learning **TypeScript** and **Node.js**
 
 - 📫 How to reach me? **jmendez1025@cue.edu.co**
 
