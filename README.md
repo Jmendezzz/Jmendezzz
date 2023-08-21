@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Juan Gerardo</h1>
 <h3 align="center">I'm passionate software engineering student from Colombia.</h3>
+<h3 align="center">I'm interested in fullstack web development.</h3>
+
 
 
 ## 🙋‍♂️ About Me
@@ -30,7 +32,7 @@
 
  <br/>
     <a href="https://github.com/Jmendezzz/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Jmendezzz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Jmendezzz/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmendezzz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Jmendezzz/github-readme-stats"><img alt="Juan Gerardo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmendezzz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
