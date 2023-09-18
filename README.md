@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **TypeScript**, **Node.js** and **Lua**.
+- 🌱 I’m currently learning **TypeScript**, **Clean Code** and **Hexagonal Architecture**.
 
 - 📫 How to reach me? **jmendez1025@cue.edu.co**
 
