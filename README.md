@@ -8,8 +8,10 @@
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **TypeScript**, **Clean Code** and **Hexagonal Architecture**.
+- 💻 I'm currently working in a Barber Shop App.
 
 - 📫 How to reach me? **jmendez1025@cue.edu.co**
+
 
 ## 🚀 Languages and Tools:
 
