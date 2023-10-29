@@ -25,7 +25,6 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
 
 </p>
-![](https://komarev.com/ghpvc/?username=Jmendezzz&color=blue)
 
 <br/>
 
@@ -37,5 +36,4 @@
   <a href="https://github.com/Jmendezzz/github-readme-stats"><img alt="Juan Gerardo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmendezzz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-
-
+![](https://komarev.com/ghpvc/?username=Jmendezzz&color=blue)
