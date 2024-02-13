@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Spring Security** and **Hexagonal Architecture**.
+- 🌱 I’m currently learning **Spring Security** and **Microservices**.
 - 💻 I'm currently working in a Barber Shop App.
 
 - 📫 How to reach me? **jmendez1025@cue.edu.co**
