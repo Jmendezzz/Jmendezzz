@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Spring Security** and **Microservices**.
 - 💻 I'm currently working in a Barber Shop App.
 
-- 📫 How to reach me? **jmendez1025@cue.edu.co**
+- 📫 How to reach me? **juange.mendez.lopez@gmail.com**
 
 
 ## 🚀 Languages and Tools:
