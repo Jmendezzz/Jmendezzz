@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Microservices** aand **Flutter**.
+- 🌱 I’m currently learning **Microservices** and **Flutter**.
 - 💻 I'm currently working in a Barber Shop App.
 
 - 📫 How to reach me? **juange.mendez.lopez@gmail.com**
