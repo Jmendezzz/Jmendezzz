@@ -3,7 +3,6 @@
 <h3 align="center">I'm a passionate software engineering student from Colombia.</h3>
 <h3 align="center">I'm interested on fullstack web development.</h3>
 
-
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Microservices** and **Flutter**.
