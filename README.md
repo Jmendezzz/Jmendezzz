@@ -10,7 +10,6 @@
 
 - 📫 How to reach me? **juange.mendez.lopez@gmail.com**
 
-
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
