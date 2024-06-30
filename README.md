@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Microservices** and Nextjs.
+- 🌱 I’m currently learning **Microservices** and Next.js
 - 💻 I'm currently working in a Barber Shop App.
 - 📫 How to reach me? **juange.mendez.lopez@gmail.com**
 
