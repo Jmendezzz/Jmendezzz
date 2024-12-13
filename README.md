@@ -8,7 +8,6 @@
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Angular**
-- 💻 I'm currently working in a Rental motorcyle application and participating in PowerUp Pragma Bootcamp
 - 📫 How to reach me? **juange.mendez.lopez@gmail.com**
 
 ## 🚀 Languages and Tools:
