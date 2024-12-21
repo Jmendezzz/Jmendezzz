@@ -2,7 +2,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Juan Gerardo</h1>
 <h3 align="center">I'm a passionate software engineering student from Colombia.</h3>
 <h3 align="center">I'm interested on fullstack web development.</h3>
-<h3 align="center">Visit my latest project: https://www.greenswap.xyz</h3>
 
 
 ## 🙋‍♂️ About Me
