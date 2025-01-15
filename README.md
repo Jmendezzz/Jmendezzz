@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently improving my code skills in Leetcode
 - 📫 How to reach me? **juange.mendez.lopez@gmail.com**
 
 ## 🚀 Languages and Tools:
