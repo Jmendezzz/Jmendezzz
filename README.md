@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Juan Gerardo</h1>
-<h3 align="center">I'm a passionate software engineering student from Colombia.</h3>
+<h3 align="center">I'm a software engineering student from Colombia looking for job opportunities.</h3>
 <h3 align="center">Visit my portfolio: https://www.juan-gerardo-mendez.digital</h3>
 
 ## 🙋‍♂️ About Me
