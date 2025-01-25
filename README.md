@@ -6,6 +6,7 @@
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently improving my code skills in Leetcode
+- 👨‍💻 Learning NestJs
 - 📫 How to reach me? **juange.mendez.lopez@gmail.com**
 
 ## 🚀 Languages and Tools:
