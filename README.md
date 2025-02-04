@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently improving my code skills in Leetcode
-- 👨‍💻 Learning NestJs
+- 👨‍💻 Learning NestJs, Flutter, Fast API to work on my Barber Shop project.
 - 📫 How to reach me? **juange.mendez.lopez@gmail.com**
 
 ## 🚀 Languages and Tools:
