@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Juan Gerardo</h1>
-<h3 align="center">I'm a software engineering student from Colombia looking for job opportunities.</h3>
+<h3 align="center">FullStack Developer from Colombia.</h3>
 <h3 align="center">Visit my portfolio: https://www.juan-gerardo-mendez.digital</h3>
 
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently improving my code skills in Leetcode
-- 👨‍💻 Learning NestJs, Flutter, Fast API to work on my Barber Shop project.
+- 👨‍💻 Learning Mobile Development.
 - 📫 How to reach me? **juange.mendez.lopez@gmail.com**
 
 ## 🚀 Languages and Tools:
