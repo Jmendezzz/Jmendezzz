@@ -16,14 +16,13 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
-  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
 </p>
 
 <p align="center">
