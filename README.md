@@ -1,10 +1,12 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
 
 <p align="center">
-  <strong>Juan Gerardo</strong> - Full Stack Developer from Colombia
+  <strong>Juan Gerardo</strong> - Full Stack Developer from Colombia 🚀
 </p>
 <p align="center">
-  <a href="https://www.juan-gerardo-mendez.digital">Visit my portfolio</a>
+  <a href="https://www.juan-gerardo-mendez.digital">Visit my portfolio
+ </a>
+  
 </p>
 
 ## About Me
