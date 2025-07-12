@@ -6,13 +6,14 @@
 <p align="center">
   <a href="https://www.juan-gerardo-mendez.digital">Visit my portfolio
  </a>
-  
 </p>
 
 ## About Me
 - 🌱 Currently polishing my problem solving skills on LeetCode
 - 📱 Exploring mobile development
 - 📫 Reach me at [juange.mendez.lopez@gmail.com](mailto:juange.mendez.lopez@gmail.com)
+## Checkout my YouTube channel
+[![Subscribe](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GerardCode)
 
 ## Tech Stack
 <p align="center">
