@@ -3,10 +3,6 @@
 <p align="left">
   <strong>I'm Juan Gerardo</strong> - Software Engineer from Colombia
 </p>
-<p align="left">
-  <a href="https://www.juan-gerardo-mendez.digital">Visit my portfolio
- </a>
-</p>
 
 ## About Me
 - Passionate about writing clean code
